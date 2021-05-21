@@ -1,0 +1,1 @@
+ssh -L 8080:sniug.icsr.agh.edu.pl:80 precikow@bastion.ki.agh.edu.pl
